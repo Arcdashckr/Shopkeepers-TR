@@ -87,60 +87,19 @@ Thank you to everyone who has contributed to the language files in this reposito
 
 ## [v2.15.0](https://github.com/Shopkeepers/Language-Files/blob/v2.15.0/CONTRIBUTORS.md)
 
-* cs: Lemafor
-* pl: Lemafor
-* es: Santyxs
-* fr: Dofy
-* tr: hhhhh-ckr
-
 ## [v2.14.0](https://github.com/Shopkeepers/Language-Files/blob/v2.14.0/CONTRIBUTORS.md)
-
-* cs: Lemafor
-* zh-CN: katorly, YuanYuanOwO
-* pl: Lemafor
-* tr: hhhhh-ckr
 
 ## [v2.13.2](https://github.com/Shopkeepers/Language-Files/blob/v2.13.2/CONTRIBUTORS.md)
 
-* ru: Naloaty
-* ja: fa0311
-* cs: Lemafor
-* zh-CN: katorly
-* es-419: Cesar Binarity
-* tr: hhhhh-ckr
-
 ## [v2.13.0](https://github.com/Shopkeepers/Language-Files/blob/v2.13.0/CONTRIBUTORS.md)
-
-* cs: Lemafor
-* tr: hhhhh-ckr
 
 ## [v2.11.0](https://github.com/Shopkeepers/Language-Files/blob/v2.11.0/CONTRIBUTORS.md)
 
-* es-419: Nehemek
-* it: Peppe73
-* es-419-2: Direte89
-* pt-BR: IgorFradi
-* ja: fa0311
-* tr: hhhhckr
-* cs: Lemafor
-
 ## [v2.10.0](https://github.com/Shopkeepers/Language-Files/blob/v2.10.0/CONTRIBUTORS.md)
-
-* cs: Lemafor
-* tr: hhhhh-ckr
 
 ## [v2.9.3](https://github.com/Shopkeepers/Language-Files/blob/v2.9.3/CONTRIBUTORS.md)
 
-* cs: Lemafor
-* tr: hhhhh-ckr
-
 ## [v2.9.0](https://github.com/Shopkeepers/Language-Files/blob/v2.9.0/CONTRIBUTORS.md)
 
-* cs: Lemafor
-* tr: hhhhh-ckr
-
 ## [v2.8.0](https://github.com/Shopkeepers/Language-Files/blob/v2.8.0/CONTRIBUTORS.md)
-
-* es: ariel-l
-* tr: hhhhh-ckr
 
