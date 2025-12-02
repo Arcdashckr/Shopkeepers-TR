@@ -6,7 +6,7 @@ This document lists the contributors of language files found in this repository.
 
 * zh-CN: yxc0915
 * ja-mix-en: metchja
-* tr: hhhhh-ckr
+* tr: Arcdashckr
 * ja: nehatsu
 * es: Santyxs
 * vi: noobd3mon
