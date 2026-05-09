@@ -2,14 +2,29 @@
 
 Thank you to everyone who has contributed to the language files in this repository!
 
+## [v2.26.0](https://github.com/Shopkeepers/Language-Files/blob/v2.26.0/CONTRIBUTORS.md)
+
+* pt-BR: luizinhoh2o1
+* es: horniyor45
+
+## [v2.25.0](https://github.com/Shopkeepers/Language-Files/blob/v2.25.0/CONTRIBUTORS.md)
+
+* tr: takatalvi
+* pt-BR: luizinhoh2o1
+
 ## [v2.24.0](https://github.com/Shopkeepers/Language-Files/blob/v2.24.0/CONTRIBUTORS.md)
 
 * sk: takatalvi
+* tr: Arcdashckr
+* it: davideakc
+* pt-BR: luizinhoh2o1
 
 ## [v2.23.4](https://github.com/Shopkeepers/Language-Files/blob/v2.23.4/CONTRIBUTORS.md)
 
 * fr: Jok9er
 * tr: hhhhh-ckr
+* es: SparkCry
+* pt-BR: luizinhoh2o1
 
 ## [v2.23.3](https://github.com/Shopkeepers/Language-Files/blob/v2.23.3/CONTRIBUTORS.md)
 
@@ -41,6 +56,7 @@ Thank you to everyone who has contributed to the language files in this reposito
 * pl: Lemafor
 * be: Gazmanovich
 * tr: hhhhh-ckr
+* pt-BR: luizinhoh2o1
 
 ## [v2.20.0](https://github.com/Shopkeepers/Language-Files/blob/v2.20.0/CONTRIBUTORS.md)
 
@@ -51,6 +67,7 @@ Thank you to everyone who has contributed to the language files in this reposito
 * ru: justpoteto
 * zh-CN: firesahc
 * tr: hhhhh-ckr
+* pt-BR: luizinhoh2o1
 
 ## [v2.19.0](https://github.com/Shopkeepers/Language-Files/blob/v2.19.0/CONTRIBUTORS.md)
 
